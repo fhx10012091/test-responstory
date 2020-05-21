@@ -1,2 +1,2 @@
 # test-responstory
-new commit B
+new commit B 你好
