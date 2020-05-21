@@ -1,2 +1,2 @@
 # test-responstory
-new commit
+new commit B
